@@ -1,0 +1,20 @@
+.Case_Study img {
+  height: 300px;
+  width: 150px;
+}
+body {
+  background-color: teal;
+}
+.Case_Study {
+  color: azure;
+  font-weight: bold;
+}
+h1 {
+  color: rgb(183, 255, 249);
+  font-family: "Lobster", cursive;
+  font-weight: bold;
+}
+h4 {
+  color: azure;
+  font-weight: bold;
+}
